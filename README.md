@@ -1,2 +1,2 @@
 # Kalkulačka Trojúhelníků
-Smalltalk college project
+Smalltalk (VisualWorks) college project
