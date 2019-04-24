@@ -1,2 +1,2 @@
-# kalkulacka-trojuhelniku
+# Kalkulačka Trojúhelniků
 Smalltalk college project
